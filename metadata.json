@@ -1,0 +1,7 @@
+{
+  "name": "Gentle Check",
+  "description": "A privacy-first, educational educational application helping men learn how to perform a gentle testicular self-examination.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
